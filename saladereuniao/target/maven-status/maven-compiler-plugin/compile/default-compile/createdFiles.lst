@@ -1,0 +1,7 @@
+com\digital\crud\saladereuniao\saladereuniao\exception\ErrorDetails.class
+com\digital\crud\saladereuniao\saladereuniao\SaladereuniaoApplication.class
+com\digital\crud\saladereuniao\saladereuniao\exception\ResourceNotFoundException.class
+com\digital\crud\saladereuniao\saladereuniao\model\Room.class
+com\digital\crud\saladereuniao\saladereuniao\repository\RoomRepository.class
+com\digital\crud\saladereuniao\saladereuniao\controller\RoomController.class
+com\digital\crud\saladereuniao\saladereuniao\exception\GlobalExceptionHandler.class
